@@ -1,0 +1,4 @@
+variables:
+- team: cbci-previews
+- admin-user: beedemo-dev-admin
+- manager-user: beedemo-dev
